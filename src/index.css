@@ -3,3 +3,8 @@
 html {
   background-color: #282A36;
 }
+
+body {
+  margin: 0;
+  padding: 0;
+}
